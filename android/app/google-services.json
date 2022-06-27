@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159811965697",
+    "project_id": "captcha-app-500ad",
+    "storage_bucket": "captcha-app-500ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159811965697:android:bdb46e392411e4d45a0100",
+        "android_client_info": {
+          "package_name": "com.example.captcha_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159811965697-mtup0lldibu4kn6maccqsidjtqiukiqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.captcha_app",
+            "certificate_hash": "b0658a5fe96913cb290224e585e53c2f84efae1b"
+          }
+        },
+        {
+          "client_id": "159811965697-upr5peglpcknvoapvk5h196cn3d71991.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLIzGpm7TRx-wTEKQevgYQhsrmEx8j4FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159811965697-upr5peglpcknvoapvk5h196cn3d71991.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
